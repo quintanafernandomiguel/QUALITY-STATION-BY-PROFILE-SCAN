@@ -61,7 +61,7 @@ Este sistema busca **automatizar el control de calidad** de piezas en una línea
 
 ## 📸 Galería
 
-> *(Aquí podrías agregar imágenes del proyecto terminado, esquemas CAD o capturas de pantalla de la interfaz)*
+> aggregar fotos
 
 ---
 
