@@ -61,7 +61,8 @@ Este sistema busca **automatizar el control de calidad** de piezas en una línea
 
 ## 📸 Galería
 
-> aggregar fotos
+> ![PF_Ensamblaje](https://github.com/user-attachments/assets/9b85f7f9-70f8-4c5f-b600-d5a24b5d024d)
+
 
 ---
 
