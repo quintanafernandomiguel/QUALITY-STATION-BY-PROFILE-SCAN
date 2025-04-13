@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/6d13bf0c-cc66-49a6-a1e0-0788450a18fb)
 
 
-Título del Proyecto
+**Título del Proyecto
 “Quality station by profile scan”
 
 Motivación y/o Antecedentes que Dan Origen a la Propuesta
