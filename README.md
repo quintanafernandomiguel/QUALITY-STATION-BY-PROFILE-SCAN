@@ -69,9 +69,9 @@ Este sistema busca **automatizar el control de calidad** de piezas en una línea
 
 ## 📐 Esquemáticos del Sistema
 
-![PF - Quintana - Esquematico](https://github.com/user-attachments/assets/c8ca5ef3-b961-42d6-b9dd-f20fa1764062)
+![PF - Quintana - Esquematico](https://github.com/user-attachments/assets/f2100175-3a5f-4b69-aef8-8c2bacaeccc4)
 
-![PF - Quintana - Esquematico Comp](https://github.com/user-attachments/assets/77b446cf-1b76-4eee-855d-e2775e066d6e)
+![PF - Quintana - Esquematico Comp](https://github.com/user-attachments/assets/ede004a5-673d-44c1-8b8f-f35ee60ff34b)
 
 ---
 
