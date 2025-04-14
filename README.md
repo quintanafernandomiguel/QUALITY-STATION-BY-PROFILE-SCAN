@@ -78,6 +78,9 @@ Este sistema busca **automatizar el control de calidad** de piezas en una línea
 ## 📸 Galería
 
 > ![PF_Ensamblaje](https://github.com/user-attachments/assets/9b85f7f9-70f8-4c5f-b600-d5a24b5d024d)
+![20250331_222816](https://github.com/user-attachments/assets/af6b964a-1438-4560-bd78-e48525abcc34)
+![20250331_222809](https://github.com/user-attachments/assets/b15f6d49-2251-4565-8c6c-bea7660cfb76)
+![20250331_223050](https://github.com/user-attachments/assets/1b808a0e-e4c7-422f-81ca-e40072225cc5)
 
 
 ---
