@@ -1,8 +1,6 @@
 # 📏 Quality Station by Profile Scan
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a0071c10-336a-4c55-b558-5432a1d91d9e" alt="Facultad de Ingeniería UNLZ" width="400"/>
-</p>
+![LOGO AZUL HORIZONTAL - fondo transparente](https://github.com/user-attachments/assets/4dceaa20-5b13-4538-aa63-0f653b5cb177)
 
 **Universidad Nacional de Lomas de Zamora - Facultad de Ingeniería**  
 **Carrera: Ingeniería Mecatrónica**
