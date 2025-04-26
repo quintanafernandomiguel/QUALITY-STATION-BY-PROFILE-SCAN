@@ -1,0 +1,16 @@
+Marca: REDRAGON
+Nombre: FOBOS
+Modelo: GW600-1
+
+
+Lens Size: 1/4”
+Most effective pixels:: 1296(H)*732(V)
+Data Format: YUY2/MJPG
+Pixel Size: 3.0um*3.0um
+Dynamic Range: TBD
+Lens: FOV ：D=68.6°
+Optical length ：7.8MM±0.1
+Focusing: fixed focus
+Focus range: 50cm-infinity
+Frame Rate: 720P 30fps Max
+Auto Control: Saturation，Contrast，Acutance，White Balance，Exposure System compatibility : Win XP(SP2 ,SP3) , VISTA , Win 7 , 8 10 , Linux or OS with UVC driver
