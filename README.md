@@ -3,8 +3,11 @@
 ![LOGO AZUL HORIZONTAL - fondo transparente](https://github.com/user-attachments/assets/4dceaa20-5b13-4538-aa63-0f653b5cb177)
 
 **Universidad Nacional de Lomas de Zamora - Facultad de Ingeniería**  
+
 **Carrera: Ingeniería Mecatrónica**
+
 **Materia: Proyecto Final**
+
 **Alumno: Quintana Fernando Miguel**
 ---
 
