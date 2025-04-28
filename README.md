@@ -4,7 +4,8 @@
 
 **Universidad Nacional de Lomas de Zamora - Facultad de Ingeniería**  
 **Carrera: Ingeniería Mecatrónica**
-
+**Materia: Proyecto Final**
+**Alumno: Quintana Fernando Miguel**
 ---
 
 ## 🎯 Motivación
