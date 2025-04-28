@@ -97,6 +97,14 @@ Este sistema busca **automatizar el control de calidad** de piezas en una línea
 
 
 
+https://github.com/user-attachments/assets/4ed54965-bf86-45df-9e4f-574f1abf868d
+
+
+
+https://github.com/user-attachments/assets/692bc483-f296-46c0-8a92-6665f114094d
+
+
+
 https://github.com/user-attachments/assets/1b8ac1dd-ba24-4001-8854-6a46f08e3085
 
 
