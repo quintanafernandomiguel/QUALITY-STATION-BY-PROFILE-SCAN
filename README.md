@@ -96,3 +96,7 @@ Este sistema busca **automatizar el control de calidad** de piezas en una línea
 ## 🎥 Video de Funcionamiento
 
 
+
+https://github.com/user-attachments/assets/1b8ac1dd-ba24-4001-8854-6a46f08e3085
+
+
